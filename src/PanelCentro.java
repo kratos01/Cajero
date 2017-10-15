@@ -1,6 +1,9 @@
 import java.awt.BorderLayout;
 import java.awt.Color;
+<<<<<<< HEAD
 import java.awt.Dimension;
+=======
+>>>>>>> master
 import java.awt.Font;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
@@ -20,11 +23,16 @@ public class PanelCentro extends JPanel{
 	private JLabel imagen;
 	
 	public PanelCentro() {
+<<<<<<< HEAD
      Dimension dm =  new Dimension(159,143);
 		this.setPreferredSize(dm);
 		contenido();
 
 	}
+=======
+	contenido();
+}
+>>>>>>> master
 	
 	public void contenido () {
 		

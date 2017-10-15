@@ -41,7 +41,10 @@ public class JFrameVentana extends JFrame  {
 	 add(pd , BorderLayout.EAST);
 	 
 	 PanelAbajo ab = new PanelAbajo();
+<<<<<<< HEAD
 	 
+=======
+>>>>>>> master
 	 add(ab,BorderLayout.SOUTH);
 	}
 }

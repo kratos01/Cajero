@@ -32,7 +32,10 @@ public JFrameDatosUsuario componentes() {
 	JLabel lbcedula = new JLabel("Cedula:");
 	add(lbcedula);
 	
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 	return null;
 	
 }
